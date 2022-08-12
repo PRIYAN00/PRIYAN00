@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyan00&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyan00&layout=compact&theme=react">

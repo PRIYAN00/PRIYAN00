@@ -1,5 +1,3 @@
-### Hi there Everyone. I'm Priyanthan Mahindaraj 👋
+### Hi there Everyone 👋
 
-Undergraduate Software Engineer
-
-<img height='260px' src="https://github-readme-stats.vercel.app/api?username=priyan00&show_icons=true&theme=midnight-purple">
+<img height='260px' src="https://github-readme-stats.vercel.app/api?username=feetqueensgallery&show_icons=true&theme=midnight-purple">

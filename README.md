@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?PRIYAN00=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
-  <a href="https://www.linkedin.com/in/PRIYAN00/" target="blank">
+  <a href="https://www.linkedin.com/in/priyanthan00/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -49,7 +49,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical" alt="yourusername's GitHub stats"/>
 </p>
 
 ---
@@ -57,5 +57,5 @@
 ### 🤝 Connect with Me
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/priyanthan00/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>

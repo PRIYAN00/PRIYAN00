@@ -1,6 +1,61 @@
-## Hi there Everyone. I'm Priyanthan Mahindaraj 👋
+<h1 align="center">Hi 👋, I'm Priyanthan Mahindaraj</h1>
+<h3 align="center">A passionate DevOps Engineer and Software Engineering Student specializing in web development and system administration.</h3>
 
-### DEVELOPER - IT Support Specialist 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?PRIYAN00=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+  <a href="https://www.linkedin.com/in/PRIYAN00/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-<img height='260px' src="https://github-readme-stats.vercel.app/api?username=priyan00&show_icons=true&theme=midnight-purple">
-<img height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=priyan00&hide=css,hack&hide_title=true&theme=midnight-purple'>
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working as an **IT Support Specialist L1** at Kochasoft.
+- 🌱 Currently pursuing a **BSc in Computer Science** with a focus on Software Engineering.
+- 👨‍🎓 Completed **HND in Software Engineering** at Esoft.
+- 🛠 Building projects with PHP, Java, and Flutter, including eCommerce platforms, appointment systems, and mobile apps.
+
+---
+
+### 💼 Professional Experience
+- **IT Support Specialist L1** at **Kochasoft**:
+  - First-level troubleshooting for Windows and asset management.
+  - Microsoft O365 administration, basic Azure, and Zabbix monitoring.
+- **System Administration & DevOps** experience:
+  - Managed and maintained Windows servers, troubleshooting, backups, and automation.
+  - Collaborated with cross-functional teams, including SAP Basis and developers.
+
+---
+
+### 📚 Current Projects
+- **Aurora Skin Care Appointment System**:
+  - Developed with PHP and Java, using OOP and MVC for robust scheduling and invoicing.
+- **Notepad App**:
+  - Flutter app with sqflite for CRUD operations, API 35 support.
+- **eCommerce Website for Gadgetz.lk**:
+  - PHP and MySQL-based platform for a streamlined customer experience.
+
+---
+
+### 🚀 Skills & Technologies
+- **Languages**: PHP, Java, Python, Dart, JavaScript
+- **Frameworks & Libraries**: Flutter, React, Bootstrap
+- **DevOps & Tools**: Docker, Jenkins, Git, Zabbix, Intune, Microsoft O365
+- **Databases**: MySQL, SQLite
+- **System Administration**: Windows Server, Active Directory, Exchange Online
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+</p>

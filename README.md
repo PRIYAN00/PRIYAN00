@@ -2,7 +2,6 @@
 <h3 align="center">A passionate DevOps Engineer and Software Engineering Student specializing in web development and system administration.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRIYAN00&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
   <a href="https://www.linkedin.com/in/priyanthan00/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>

@@ -56,6 +56,6 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:priyanthan.mahindaraj@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=outlook&logoColor=white"></a>
+  <a href="mailto:priyanthan.mahindaraj@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/priyanthan00/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>

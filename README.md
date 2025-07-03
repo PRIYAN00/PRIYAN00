@@ -50,7 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yourusername's GitHub stats"/>
 </p>
-
+![PRIYAN00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### 🤝 Connect with Me

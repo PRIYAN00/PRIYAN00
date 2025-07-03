@@ -1,60 +1,124 @@
-<h1 align="center">Hi 👋, I'm Priyanthan Mahindaraj</h1>
-<h3 align="center">A passionate DevOps Engineer and Software Engineering Student specializing in web development and system administration.</h3>
+<h1 align="center">👋 Hi, I'm Priyanthan Mahindaraj</h1>
+<h3 align="center">🚀 IT Support Specialist | Aspiring DevOps Engineer | Software Engineering Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanthan00/" target="blank">
+  <a href="https://www.linkedin.com/in/priyanthan00/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:priyanthan.mahindaraj@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.priyandev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white" alt="Website">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working as an **IT Support Specialist L1** at Kochasoft.
-- 🌱 Currently pursuing a **BSc in Computer Science** with a focus on Software Engineering.
-- 👨‍🎓 Completed **HND in Software Engineering** at Esoft.
-- 🛠 Building projects with PHP, Java, and Flutter, including eCommerce platforms, appointment systems, and mobile apps.
+### 🎯 Objective
+
+Results-driven **IT Support Specialist** with 4+ years of experience in IT support, infrastructure, and cloud services. Adept in **Microsoft 365**, **Exchange**, **Intune**, **Active Directory**, **Zabbix**, and foundational **DevOps tools**. Currently pursuing a **BSc in Software Engineering** while gaining hands-on experience in **Terraform**, **Docker**, and **Kubernetes**.  
+Visit my portfolio: **[www.priyandev.xyz](https://www.priyandev.xyz)**
 
 ---
 
-### 💼 Professional Experience
-- **IT Support Specialist L1** at **Kochasoft**:
-  - First-level troubleshooting for Windows and asset management.
-  - Microsoft O365 administration, basic Azure, and Zabbix monitoring.
-- **System Administration & DevOps** experience:
-  - Managed and maintained Windows servers, troubleshooting, backups, and automation.
-  - Collaborated with cross-functional teams, including SAP Basis and developers.
+### 💼 Work Experience
+
+#### 🖥 IT Support Specialist (L1) | Kochasoft  
+*Dec 2022 – Present*
+- Troubleshoot hardware, software, and network issues.
+- Administer **Office 365**, **Exchange**, **Intune** with a focus on security and compliance.
+- Perform **Windows engineering tasks** (CPU, memory optimization, disk issues).
+- Maintain **Zabbix Monitoring**, OpenManage, and system configurations.
+- Hands-on with **Terraform**, Linux servers, CI/CD pipelines using **GitHub Actions** and **Jenkins**.
+- Manage domains, websites, and cPanel hosting — including **[priyandev.xyz](https://www.priyandev.xyz)**.
+
+#### 📁 Assistant Office Administrator (Part-Time) | Kochasoft  
+*Jul 2022 – Dec 2022*
+- Supported internal IT operations and managed CMS-based websites.
+- Streamlined administrative processes with digital tools.
+
+#### 💻 IT Technician | Mylinx (Pvt) Ltd  
+*Jul 2019 – Jan 2020*
+- Provided on-site and remote IT support.
+- Installed and maintained systems including **CCTV** and LAN networks.
+
+#### 🗂 MA Trainee | Divisional Secretariat  
+*Jan 2019 – Jul 2020*
+- Supported office IT systems and CMS training for staff.
 
 ---
 
-### 📚 Current Projects
-- **Aurora Skin Care Appointment System**:
-  - Developed with PHP and Java, using OOP and MVC for robust scheduling and invoicing.
-- **Notepad App**:
-  - Flutter app with sqflite for CRUD operations, API 35 support.
-- **eCommerce Website for Gadgetz.lk**:
-  - PHP and MySQL-based platform for a streamlined customer experience.
+### 🎓 Education
+
+- **BSc (Hons) Computing Science in Software Engineering** – Kingston University *(Expected Apr 2025)*
+- **BTEC HND in Computing (Software Engineering)** – Esoft Metro Campus *(2023)*
+- **NVQ Level IV – ICT Technician** – NVTI *(2019)*
+- **Diplomas** in Web Engineering, English, and IT – Esoft *(2017–2019)*
 
 ---
 
-### 🚀 Skills & Technologies
-- **Languages**: PHP, Java, Python, Dart, JavaScript
-- **Frameworks & Libraries**: Flutter, React, Bootstrap
-- **DevOps & Tools**: Docker, Jenkins, Git, Zabbix, Intune, Microsoft O365
-- **Databases**: MySQL, SQLite
-- **System Administration**: Windows Server, Active Directory, Exchange Online
+### 🛠 Technical Skills
+
+#### ☁️ Cloud & Infrastructure
+- **Azure**, **AWS**
+- **Terraform** (proficient), **Docker**, **Kubernetes** *(learning)*
+
+#### ⚙️ DevOps & CI/CD
+- **Jenkins**, **GitHub Actions**, **Git**, **Bash**
+- **Ansible** *(learning)*
+
+#### 🖥️ System & Network Administration
+- **Windows Server**, **Linux (Ubuntu/RHEL)**
+- **Active Directory**, **Group Policy**, **Exchange**, **Intune**
+
+#### 🌐 Web & Programming
+- **PHP**, **Java**, **React.js**
+- **CMS** & **cPanel**, Website Hosting (.lk / .com)
+- Portfolio & web projects: **[www.priyandev.xyz](https://www.priyandev.xyz)**
+
+#### 🧠 Monitoring & Security
+- **Zabbix**, **OpenManage**, **Prometheus** *(learning)*
+- Network troubleshooting, IT asset audits, endpoint protection
 
 ---
 
-### 📈 GitHub Stats
+### 🔧 Projects & Achievements
+
+- 🟢 **Zabbix Monitoring System** – Fully upgraded and optimized for internal use.
+- 🌐 **Domain & Website Management** – Administered and hosted business sites including [www.priyandev.xyz](https://www.priyandev.xyz).
+- 🛠 **Automation Scripts** – Developed scripts for monitoring and maintenance tasks.
+- 🚀 **CI/CD Pipelines** – Implemented Jenkins + GitHub Actions for automated deployments.
+- 📦 **Infrastructure as Code** – Built test environments with **Terraform** and **Linux**.
+
+---
+
+### 📜 Certifications
+
+- **Cisco: Introduction to Cybersecurity** *(2021)*
+- **Cisco CCNA: Introduction to Networks** *(2022)*
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yourusername's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-![PRIYAN00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ### 🤝 Connect with Me
+
 <p align="center">
-  <a href="mailto:priyanthan.mahindaraj@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/priyanthan00/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:priyanthan.mahindaraj@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/priyanthan00/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.priyandev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-000?style=flat-square&logo=github&logoColor=white" alt="Website">
+  </a>
 </p>

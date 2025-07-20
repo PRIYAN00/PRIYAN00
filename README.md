@@ -1,88 +1,82 @@
-<!-- Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Priyanthan+Mahindaraj+🚀;DevOps+%7C+Cloud+%7C+Automation;Welcome+to+my+GitHub+space!" />
-</p>
+<!-- Hero Section -->
+<h1 align="center">Hey 👋, I'm Priyanthan Mahindaraj</h1>
+<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Infra Enthusiast | 🛠️ Automation Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanthan00/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:priyanthan.mahindaraj@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blueviolet?logo=microsoft-outlook&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=microsoft-outlook" />
   </a>
   <a href="https://www.priyandev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?logo=About.me&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me" />
   </a>
 </p>
 
 ---
 
-## 🛠️ DevOps Enthusiast | Cloud Explorer | Automation Fan
+<img align="right" alt="DevOps Gif" width="280" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
 
-Welcome! I'm **Priyanthan**, and this is where I experiment, learn, and share everything DevOps, infrastructure, and automation.
+### 👨‍💻 About Me
 
-🔹 **Currently Exploring**  
-- CI/CD with GitHub Actions  
-- Infrastructure as Code using Terraform  
-- Monitoring via Zabbix & Prometheus  
-- Containerization with Docker  
-- Cloud: Azure & AWS
-
-🔹 **I Use GitHub For**  
-- Automating deployments  
-- Managing Infrastructure as Code  
-- Sharing projects and scripts  
-- Learning collaboratively
+- 🔧 IT Support turned DevOps Engineer (4+ years in tech)
+- 🌐 Building infrastructure with **Terraform**, **Docker**, and **Azure**
+- ⚙️ Automating workflows using **GitHub Actions** & **Jenkins**
+- 📈 Monitoring with **Zabbix**, scripting with **Bash**
+- 🧪 Learning **Kubernetes**, **Ansible**, and **Prometheus**
 
 ---
 
-## 🚀 Featured GitHub Projects
+### 🚀 Featured Projects
 
-- 🔧 **CI/CD Pipeline with GitHub Actions**  
-  Automates deployments for static sites and internal tools.
-
-- 📡 **Zabbix Alert Webhook Integration**  
-  Custom webhook setup to forward alerts to incident platforms.
-
-- 🗄 **Infrastructure with Terraform**  
-  Spin up cloud resources with reusable Terraform modules.
-
-- 💻 **Bash Automation Scripts**  
-  Health checks, system cleanups, backup scripts & more.
-
-> Visit [www.priyandev.xyz](https://www.priyandev.xyz) for full project documentation.
+| 💡 Project | 🚀 Tech Stack | 🔗 Link |
+|-----------|---------------|--------|
+| **CI/CD Pipelines** | GitHub Actions, Bash, GoDaddy Hosting | _Private Repo_ |
+| **Zabbix Webhook Integration** | Zabbix, Webhook, HPSM | _Internal Use_ |
+| **IaC Deployment Setup** | Terraform, Azure | _Demo in progress_ |
+| **Linux Health Checks** | Bash scripting, Cron | [🔗 Repo](#) |
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Toolbox
 
-| Cloud & IaC | DevOps & CI/CD | Monitoring | Languages & Tools |
-|-------------|----------------|------------|-------------------|
-| Azure, AWS, Terraform | GitHub Actions, Jenkins | Zabbix, Prometheus | Bash, HTML/CSS, Git, VSCode |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,githubactions,jenkins,bash,git,html,css" /><br>
+
+<img src="https://skillicons.dev/icons?i=vsco,vscode,php,js,react,windows,java,zabbix,prometheus" />
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
-
-Have a project you'd like to build or automate? I’m open to collaboration!
+### 📈 Contribution Activity
 
 <p align="center">
-  <a href="mailto:priyanthan.mahindaraj@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contact-blueviolet?logo=microsoft-outlook&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyanthan00/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYAN00&theme=tokyonight&hide_border=false" />
 </p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:priyanthan.mahindaraj@outlook.com"><img src="https://img.shields.io/badge/Email-Me-blueviolet?style=for-the-badge&logo=microsoft-outlook" /></a>
+  <a href="https://linkedin.com/in/priyanthan00"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.priyandev.xyz"><img src="https://img.shields.io/badge/Website-Visit-black?style=for-the-badge&logo=About.me" /></a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRIYAN00&label=Profile+Views&color=0e75b6&style=flat" />

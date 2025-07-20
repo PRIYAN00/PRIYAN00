@@ -63,7 +63,7 @@ I'm a passionate **IT Support Specialist** with 4+ years of experience, currentl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" hidden="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&layout=compact&theme=vue-dark&langs_count=6" alt="Top Languages" />
 </p>
 

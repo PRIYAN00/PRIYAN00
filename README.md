@@ -82,7 +82,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -91,10 +90,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PRIYAN00&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYAN00&theme=radical&hide_border=false" />
 </p>
 
 ---

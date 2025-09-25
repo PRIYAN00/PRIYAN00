@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">Hey 👋, I'm Priyanthan Mahindaraj</h1>
-<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Infra Enthusiast | 🛠️ Automation Builder</h3>
+<h3 align="center">🚀 Platform Engineer | ☁️ Cloud Infra Enthusiast | 🛠️ Automation Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanthan00/" target="_blank">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 IT Support turned DevOps Engineer (4+ years in tech)
+- 🔧 IT Support turned Platform Engineer (4+ years in tech)
 - 🌐 Building infrastructure with **Terraform**, **Docker**, and **Azure**
 - ⚙️ Automating workflows using **GitHub Actions** & **Jenkins**
 - 📈 Monitoring with **Zabbix**, scripting with **Bash**
@@ -32,10 +32,12 @@
 
 | 💡 Project | 🚀 Tech Stack | 🔗 Link |
 |-----------|---------------|--------|
-| **CI/CD Pipelines** | GitHub Actions, Bash, GoDaddy Hosting | _Private Repo_ |
-| **Zabbix Webhook Integration** | Zabbix, Webhook, HPSM | _Internal Use_ |
-| **IaC Deployment Setup** | Terraform, Azure | _Demo in progress_ |
-| **Linux Health Checks** | Bash scripting, Cron | [🔗 Repo](#) |
+| **Cloud Infra with Terraform** | Terraform, Azure, GitHub Actions | _Internal Use Home Lab_ |
+| **CI/CD Pipeline for Microservices** | Docker, GitHub Actions, Azure Web Apps |  _Internal Use_ |
+| **Zabbix Alert Automation** | Zabbix, Webhook, Python, HPSM | _Internal Use Home Lab_ |
+| **Linux System Health Monitor** | Bash, Cron, Email Alerts | _Internal Use Home Lab_ |
+| **Kubernetes Playground** | Kubernetes, Helm, Prometheus, Grafana |  _Internal Use Home Lab_ |
+| **Personal Portfolio** | React, Tailwind, Netlify | [🌐 Live Site](https://www.priyandev.xyz) |
 
 ---
 
@@ -43,9 +45,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,githubactions,jenkins,bash,git,html,css" /><br>
-
-<img src="https://skillicons.dev/icons?i=vsco,vscode,php,js,react,windows,java,zabbix,prometheus" />
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 </div>
 

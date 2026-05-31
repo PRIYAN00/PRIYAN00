@@ -1,47 +1,104 @@
-<!-- Hero Section -->
-<h1 align="center">Hey 👋, I'm Priyanthan Mahindaraj</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 Backend Engineer | ☁️ Infrastructure Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanthan00/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:priyanthan.mahindaraj@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=microsoft-outlook" />
-  </a>
-  <a href="https://www.priyandev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanthan%20Mahindaraj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Infrastructure%20Enthusiast&descAlignY=55&descSize=16" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+robust+systems+that+scale+%F0%9F%9A%80;Turning+ideas+into+production-ready+solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanthan00/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=About.me&logoColor=white)](https://www.priyandev.xyz)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:priyanthan.mahindaraj@outlook.com)
+
+</div>
 
 ---
 
-<img align="right" alt="Developer Gif" width="280" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
-
 ### 👨‍💻 About Me
 
-- 💼 Experienced Full-Stack Developer with diverse project portfolio
-- 🌐 Building scalable web applications with **PHP**, **TypeScript**, **React**
-- 📱 Mobile app development using **Flutter** & **Dart**
+- 💼 Experienced Full-Stack Developer with a diverse project portfolio
+- 🌐 Building scalable web apps with **PHP**, **TypeScript**, **React**
+- 📱 Mobile development using **Flutter** & **Dart**
 - 💻 Desktop applications with **C++**
 - ☁️ Infrastructure automation with **Terraform**, **Proxmox**, **HCL**
 - 🗄️ Database design & management with **MySQL**
-- 🔧 Problem solver passionate about building robust systems
+- 🔧 Passionate about building systems that are both robust and elegant
+
+<br clear="right"/>
 
 ---
 
 ### 🚀 Featured Projects
 
-| 💡 Project | 🛠️ Tech Stack | 📝 Description |
-|-----------|---------------|-----------------|
-| **CMS 2.0 - Gadget Management System** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | Complete repair shop management system with dashboard, repair tracking, user management, sales & invoicing. Full Docker setup. |
-| **Old Age Home Management System** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) | Modern web-based management system for elderly care facilities. Deployed on Vercel with v0.app integration. |
-| **Proxmox Home Lab Infrastructure** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-844FBA?logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) | Reusable Terraform module for managing LXC containers in Proxmox. Infrastructure as Code for home lab environments. |
-| **Work Order System (WOS)** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | Enterprise work order tracking system for MYLINX PVT Ltd. with admin dashboard. |
-| **Flutter News App** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | Cross-platform mobile news application with real-time content delivery. |
-| **Simple Note App** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | Lightweight desktop note-taking application built with C++. |
-| **Personal Portfolio** | ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Professional portfolio showcasing my projects and achievements. |
-| **Hotel Management System** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | Comprehensive hotel booking & management system with booking workflows. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛠️ CMS 2.0 — Gadget Management</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <br/><br/>
+        <p>Complete repair shop management system with dashboard, repair tracking, user management, sales & invoicing. Full Docker setup.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 Old Age Home Management</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <br/><br/>
+        <p>Modern web-based management system for elderly care facilities. Deployed on Vercel with v0.app integration.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☁️ Proxmox Home Lab</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+        <br/><br/>
+        <p>Reusable Terraform module for managing LXC containers in Proxmox. Infrastructure as Code for home lab environments.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📋 Work Order System (WOS)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <br/><br/>
+        <p>Enterprise work order tracking system for MYLINX PVT Ltd. with admin dashboard.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Flutter News App</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <br/><br/>
+        <p>Cross-platform mobile news application with real-time content delivery.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 Simple Note App</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <br/><br/>
+        <p>Lightweight desktop note-taking application built with C++.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,98 +107,96 @@
 <div align="center">
 
 #### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 💻 Systems & Backend
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-#### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ☁️ Infrastructure & DevOps
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
-![HCL](https://img.shields.io/badge/-HCL-844FBA?logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 #### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-
-#### 🖥️ Platforms
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Key Expertise
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PRIYAN00&theme=radical&hide_border=true" />
+</div>
 
-| Area | Technologies |
-|------|--------------|
-| **Web Applications** | PHP, TypeScript, React, HTML5, CSS3, Bootstrap |
-| **Mobile Apps** | Flutter, Dart |
-| **Backend Systems** | PHP, MySQL, Database Design |
-| **Infrastructure** | Terraform, Proxmox, Docker, HCL |
-| **Desktop Applications** | C++ |
-| **Tools & Platforms** | Git, GitHub, VS Code, Vercel |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYAN00&theme=redical&hide_border=true&area=true" />
+</div>
 
 ---
 
 ### 💼 Recent Work Highlights
 
-✅ **CMS 2.0** - Built production-ready gadget management system with Docker containerization (76.3% PHP, 23.4% CSS)
-✅ **Old Age Home System** - Modern TypeScript/React application deployed on Vercel (89.2% TypeScript, 10.4% CSS)
-✅ **Proxmox Infrastructure** - Created reusable Terraform modules for home lab automation (100% HCL)
-✅ **Work Order System** - Enterprise WOS with admin dashboard (32.8% PHP, 65.8% CSS, 1.4% JavaScript)
-✅ **Multiple Mobile & Desktop Apps** - Flutter news app, C++ note app, and more
+| Status | Project | Impact |
+|--------|---------|--------|
+| ✅ | **CMS 2.0** | Production-ready gadget management with Docker containerization |
+| ✅ | **Old Age Home System** | Modern TypeScript/React app live on Vercel |
+| ✅ | **Proxmox Infrastructure** | Reusable Terraform modules for home lab automation |
+| ✅ | **Work Order System** | Enterprise WOS with admin dashboard at MYLINX PVT Ltd. |
+| ✅ | **Mobile & Desktop Apps** | Flutter news app, C++ note app, and more |
 
 ---
 
-### 📈 Project Statistics
+### 🎯 Currently Exploring
 
-- **Total Repositories**: 12+
-- **Languages**: PHP, TypeScript, C++, Dart, JavaScript, HCL, CSS, HTML, Java
-- **Key Focus Areas**: Full-Stack Development, Infrastructure as Code, Mobile Apps, Web Systems
-- **Database Experience**: MySQL, Database Design & Optimization
+<div align="center">
+
+```
+🔷 Advanced Kubernetes Orchestration
+🔷 Cloud-Native Application Development  
+🔷 System Architecture Patterns
+🔷 DevOps Automation Best Practices
+```
+
+</div>
 
 ---
 
 ### 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:priyanthan.mahindaraj@outlook.com"><img src="https://img.shields.io/badge/Email-Message-blueviolet?style=for-the-badge&logo=microsoft-outlook" /></a>
-  <a href="https://linkedin.com/in/priyanthan00"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.priyandev.xyz"><img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=About.me" /></a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanthan00)
+[![Email](https://img.shields.io/badge/Send_a_Message-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:priyanthan.mahindaraj@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FF5757?style=for-the-badge&logo=About.me&logoColor=white)](https://www.priyandev.xyz)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRIYAN00&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<br/>
 
----
+*Feel free to explore my repositories and reach out for collaboration!* 🚀
 
-### 🎯 What I'm Currently Exploring
+<br/>
 
-- Advanced Kubernetes orchestration
-- Cloud-native application development
-- System architecture patterns
-- DevOps automation best practices
+<img src="https://komarev.com/ghpvc/?username=PRIYAN00&label=Profile+Views&color=brightgreen&style=for-the-badge" />
 
-*Feel free to explore my repositories and reach out for collaboration or questions!* 🚀
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>

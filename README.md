@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 👨‍💻 About Me
 
 - 💼 Experienced Full-Stack Developer with a diverse project portfolio
@@ -144,12 +142,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRIYAN00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAN00&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PRIYAN00&theme=radical&hide_border=true" />
 </div>
